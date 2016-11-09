@@ -1,2 +1,6 @@
 # hello-world
-just another repository
+
+hi,
+i am Prankita.
+
+welcome to hello-world
